@@ -3,10 +3,10 @@ from PIL import Image, ImageDraw, ImageFont
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Replace with your Telegram bot token
-TOKEN = 'Your Bot Token Here'
+TOKEN = '6663409312:AAHcW5A_mnhWHwSdZrFm9eJx1RxqzWKrS0c'
 
 # Define the watermark text and font size
-WATERMARK_TEXT = 'Your Watermark Text'
+WATERMARK_TEXT = 'ok'
 
 def add_watermark(image_file):
     # Open the image and get its width and height
